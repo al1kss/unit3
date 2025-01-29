@@ -154,8 +154,9 @@ MDScreen:
 ```
 
 ## Proof of work
+<img width="832" alt="Screenshot 2025-01-29 at 23 28 59" src="https://github.com/user-attachments/assets/7ccde49c-6b30-49ac-a41c-81cb9b7a1061" />
+<img width="820" alt="Screenshot 2025-01-29 at 23 29 14" src="https://github.com/user-attachments/assets/fcaa82f9-ab0d-464d-bfa0-f875efc6c0de" />
 
-## Part B
 
 ### For my info
 Where is it on PC
