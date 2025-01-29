@@ -40,6 +40,10 @@ MDScreen:
             app.on_press()
 
 ```
+## Proof of work
+<img width="814" alt="Screenshot 2025-01-29 at 23 31 00" src="https://github.com/user-attachments/assets/c53c47e4-943f-413c-97d9-5899d0fd632a" />
+<img width="810" alt="Screenshot 2025-01-29 at 23 31 14" src="https://github.com/user-attachments/assets/d529e5ed-2d57-41d0-88f0-e933901bc9a2" />
+
 
 ### For my info
 Where is it on PC
