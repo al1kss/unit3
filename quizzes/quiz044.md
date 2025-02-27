@@ -29,6 +29,7 @@ print(rain2.pour(34))
 <img width="1470" alt="Screenshot 2025-02-26 at 21 16 43" src="https://github.com/user-attachments/assets/eb4fe2dd-bcfe-4245-a012-0e3548df1cda" />
 
 ## Paper Solution
+![WhatsApp Image 2025-02-27 at 11 11 19 (1)](https://github.com/user-attachments/assets/00a79872-1de5-4466-9cd0-04198702dc86)
 
 
 ### For my info
