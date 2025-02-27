@@ -37,6 +37,7 @@ class partTimeEmployee(Employee):
 <img width="1470" alt="Screenshot 2025-02-27 at 8 16 04" src="https://github.com/user-attachments/assets/63116eff-0f19-4414-aea3-82147d68a3ca" />
 
 ## Paper Solution
+![WhatsApp Image 2025-02-27 at 11 11 19](https://github.com/user-attachments/assets/d09a4d17-6bc5-4433-95f9-4de650cb0e6b)
 
 
 ### For my info
