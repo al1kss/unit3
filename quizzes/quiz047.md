@@ -39,6 +39,7 @@ print(sunday.getProteinPercentage())
 <img width="1470" alt="Screenshot 2025-02-27 at 8 24 30" src="https://github.com/user-attachments/assets/5e0c4cfb-abe1-42dc-9906-3e8bfaca29c3" />
 
 ## Paper Solution
+![WhatsApp Image 2025-02-27 at 09 59 26](https://github.com/user-attachments/assets/312a7a03-a198-4ca2-a283-34d8fe160241)
 
 
 ### For my info
