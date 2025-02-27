@@ -43,6 +43,7 @@ print(library.show_books())
 <img width="1470" alt="Screenshot 2025-02-27 at 8 38 34" src="https://github.com/user-attachments/assets/1e0ea583-08b2-4846-9148-692b7194627e" />
 
 ## Paper Solution
+![WhatsApp Image 2025-02-27 at 11 11 18](https://github.com/user-attachments/assets/ec769913-b7e7-4a09-8202-bf94d88b0726)
 
 
 ### For my info
